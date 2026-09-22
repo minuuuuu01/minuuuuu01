@@ -1,15 +1,16 @@
 # 👋 Hi, I'm MinWoo Hwang
 
-
 ## 🎓 Education
 
 Konkuk Univ. GLOCAL | Computer Engineering (2020.03 - 2027.02)
 
+<br>
 
 ## 🛠️ Tech Stack
 
 <!-- To be added -->
 
+<br>
 
 ## 💼 Activities & Experience
 
@@ -18,6 +19,7 @@ Konkuk Univ. GLOCAL | Computer Engineering (2020.03 - 2027.02)
 - DF (Data Analytics & AI Club) | 2026.01 - 2026.02
 - BITAmin (Data Analytics & AI Club) | 2026.01 - Present
 
+<br>
 
 <!--
 ## 🏆 Awards & Honors
@@ -27,7 +29,6 @@ Konkuk Univ. GLOCAL | Computer Engineering (2020.03 - 2027.02)
 - Awarded: Jul. 23, 2026
 -->
 
-
 ## 🪪 Certifications
 
 - Engineer Information Processing
@@ -35,6 +36,7 @@ Konkuk Univ. GLOCAL | Computer Engineering (2020.03 - 2027.02)
 - SQL Developer (SQLD)
 - Computer Specialist in Spreadsheet & Database Level-1
 
+<br>
 
 ## 📫 Contact
 
