@@ -11,9 +11,12 @@ Konkuk Univ. GLOCAL | Computer Engineering (2020.03 - 2027.02)
 <!-- To be added -->
 
 
-## 💼 Experience & Activities
+## 💼 Activities & Experience
 
-<!-- To be added -->
+- Undergraduate Researcher (Regression Analysis) | 2025.01 - 2025.12
+- ICT Project Internship (Computer Vision) | 2025.08 - 2025.12
+- DF (Data Analytics & AI Club) | 2026.01 - 2026.02
+- BITAmin (Data Analytics & AI Club) | 2026.01 - Present
 
 
 <!--
