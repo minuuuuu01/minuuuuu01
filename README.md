@@ -27,12 +27,12 @@ Mar. 2020 – Feb. 2027
 -->
 
 
-## 📜 Certifications
+## 🪪 Certifications
 
-- Engineer Information Processing (정보처리기사)
+- Engineer Information Processing
 - Advanced Data Analytics Semi-Professional (ADsP)
 - SQL Developer (SQLD)
-- Computer Specialist in Spreadsheet & Database, Level 1 (컴퓨터활용능력 1급)
+- Computer Specialist in Spreadsheet & Database Level-1
 
 
 ## 📫 Contact
