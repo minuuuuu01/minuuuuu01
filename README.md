@@ -3,9 +3,7 @@
 
 ## 🎓 Education
 
-**Konkuk University Glocal Campus**  
-B.S. in Computer Engineering  
-Mar. 2020 – Feb. 2027
+Konkuk Univ. GLOCAL | Computer Engineering (2020.03 - 2027.02)
 
 
 ## 🛠️ Tech Stack
