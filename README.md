@@ -8,7 +8,7 @@ Konkuk Univ. GLOCAL | Computer Engineering (2020.03 - 2027.02)
 
 ## 🛠️ Tech Stack
 
-### Languages
+Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
